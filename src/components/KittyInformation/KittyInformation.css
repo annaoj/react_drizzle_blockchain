@@ -1,0 +1,24 @@
+.resultWrapper{
+    margin: 5px;
+    width: 90%;
+    overflow-wrap: break-word;
+}
+
+.imgKitty{
+    width: 200px;
+    text-align: center;
+}
+
+p{
+    color: #9c9c9b;
+}
+
+.header{
+    color: #242222;
+}
+
+.imgContainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
